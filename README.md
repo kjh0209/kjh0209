@@ -1,6 +1,6 @@
 # Jihyeok Kim
 
-KAIST undergraduate (Business and Technology Management, Computer Science double major). I build working AI systems and then study why they fail.
+KAIST undergraduate, Department of AI Computing (Computer Science double major). I build working AI systems and then study why they fail.
 
 **Research interests.** How an agent should decide where to spend computation, and what representation of the world it should carry so a language model can act on it quickly and correctly: adaptive inference-time compute and step-level verification for LLM agents, and fast, accurate spatial memory for household robots.
 
